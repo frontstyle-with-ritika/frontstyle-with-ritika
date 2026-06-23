@@ -10,6 +10,8 @@
 - HTML, CSS
 - JavaScript
 - React
+- Tailwind CSS
+- Python
 - Git & GitHub
 
 ## 📫 Connect with me
